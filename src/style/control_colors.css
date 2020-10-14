@@ -1,0 +1,175 @@
+.released, #BACK_LEFT_STICK, #BACK_RIGHT_STICK {
+    fill: none;
+}
+
+#A {
+    stroke: #5ab852ff !important;
+    fill: #5ab852ff !important;
+    
+}
+
+#B {
+    stroke: #b85252ff !important;
+    fill: #b85252ff !important;
+    
+}
+
+#X {
+    stroke: #5278b8ff !important;
+    fill: #5278b8ff !important;
+    
+}
+
+#Y {
+    stroke: #b8ad52ff !important;
+    fill: #b8ad52ff !important;
+    
+}
+
+#LB {
+    stroke: #636363ff !important;
+    fill: #636363ff !important;
+    
+}
+
+#RB {
+    stroke: #636363ff !important;
+    fill: #636363ff !important;
+    
+}
+
+#LT {
+    stroke: #636363ff !important;
+    fill: #636363ff !important;
+    
+}
+
+#RT {
+    stroke: #636363ff !important;
+    fill: #636363ff !important;
+    
+}
+
+#SELECT {
+    stroke: #3b3b3bff !important;
+    fill: #3b3b3bff !important;
+    
+}
+
+#START {
+    stroke: #3b3b3bff !important;
+    fill: #3b3b3bff !important;
+    
+}
+
+#LEFT_STICK {
+    stroke: #4f903eff !important;
+    fill: #4f903eff !important;
+    
+}
+
+#RIGHT_STICK {
+    stroke: #4f903eff !important;
+    fill: #4f903eff !important;
+    
+}
+
+#BACK_LEFT_STICK {
+    stroke: #4f903eff !important;
+    fill: none;
+    
+}
+
+#BACK_RIGHT_STICK {
+    stroke: #4f903eff !important;
+    fill: none;
+    
+}
+
+#UP_PAD {
+    stroke: #7e7e7eff !important;
+    fill: #7e7e7eff !important;
+    
+}
+
+#DOWN_PAD {
+    stroke: #7e7e7eff !important;
+    fill: #7e7e7eff !important;
+    
+}
+
+#LEFT_PAD {
+    stroke: #7e7e7eff !important;
+    fill: #7e7e7eff !important;
+    
+}
+
+#RIGHT_PAD {
+    stroke: #7e7e7eff !important;
+    fill: #7e7e7eff !important;
+    
+}
+/*
+#A.pressed {
+    fill: #5ab852ff !important;
+}
+
+#B.pressed {
+    fill: #b85252ff !important;
+}
+
+#X.pressed {
+    fill: #5278b8ff !important;
+}
+
+#Y.pressed {
+    fill: #b8ad52ff !important;
+}
+
+#LB.pressed {
+    fill: #636363ff !important;
+}
+
+#RB.pressed {
+    fill: #636363ff !important;
+}
+
+#LT.pressed {
+    fill: #636363ff !important;
+}
+
+#RT.pressed {
+    fill: #636363ff !important;
+}
+
+#SELECT.pressed {
+    fill: #3b3b3bff !important;
+}
+
+#START.pressed {
+    fill: #3b3b3bff !important;
+}
+
+#LEFT_STICK.pressed {
+    fill: #4f903eff !important;
+}
+
+#RIGHT_STICK.pressed {
+    fill: #4f903eff !important;
+}
+
+#UP_PAD.pressed {
+    fill: #7e7e7eff !important;
+}
+
+#DOWN_PAD.pressed {
+    fill: #7e7e7eff !important;
+}
+
+#LEFT_PAD.pressed {
+    fill: #7e7e7eff !important;
+}
+
+#RIGHT_PAD.pressed {
+    fill: #7e7e7eff !important;
+} */
